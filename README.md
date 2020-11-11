@@ -2,9 +2,11 @@
 
 ### Description
 
-SimpleMatrixT -- class based on template, dynamic array as internal storage.
+SimpleMatrixT -- class based on template, dynamic array as internal storage, fast "move" semantic support.
 
-SimpleMatrixV -- class with vector as internal storage.
+SimpleMatrixV -- class with vector as internal storage, slow "move" semantic support.
+
+Tested under CLion 2020.2 / Windows 7 x64 
 
 ### Build procedure
 
